@@ -8,8 +8,5 @@
 - 📫 How to reach me: linked in - https://www.linkedin.com/in/rownak-al-rashid-782513176/, email-  sunanrashid@gmail.com
 - 😄 Pronouns: He/His
 - ⚡ Fun fact: I like memes
-
-
-
-<Github stat link -"https://github-readme-stats.vercel.app/api?username=RownakAlRashid04121997&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515">
+- Github stat link - https://github-readme-stats.vercel.app/api?username=RownakAlRashid04121997&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515
 
